@@ -1,8 +1,8 @@
 {
-  "name": "jssip",
-  "version": "0.7.23",
-  "description": "the Javascript SIP library",
-  "main": "dist/jssip.js",
+  "name": "jssip-sl",
+  "version": "0.1.0",
+  "description": "the Javascript SIP library - SL",
+  "main": "dist/jssip-sl.js",
   "homepage": "http://jssip.net",
   "authors": [
     "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/versatica/JsSIP.git"
+    "url": "https://github.com/BigFluffTRex/jssip-sl.git"
   },
   "ignore": [
     "node_modules",
@@ -28,6 +28,6 @@
     "lib",
     "gulpfile.js",
     "package.json",
-    "banner.txt"
+    "banner.txt",
   ]
 }
