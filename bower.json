@@ -1,6 +1,6 @@
 {
   "name": "jssip-sl",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "the Javascript SIP library - SL",
   "main": "dist/jssip-sl.js",
   "homepage": "http://jssip.net",
@@ -28,6 +28,6 @@
     "lib",
     "gulpfile.js",
     "package.json",
-    "banner.txt",
+    "banner.txt"
   ]
 }

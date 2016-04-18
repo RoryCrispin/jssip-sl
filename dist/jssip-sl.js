@@ -1,5 +1,5 @@
 /*
- * jssip-sl v0.2.0
+ * jssip-sl v1.0.0
  * the Javascript SIP library - SL
  * Copyright: 2012-2016 José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)
  * Homepage: http://jssip.net
@@ -26764,7 +26764,7 @@ module.exports={
   "name": "jssip-sl",
   "title": "jssip-sl",
   "description": "the Javascript SIP library - SL",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "homepage": "http://jssip.net",
   "author": "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
   "contributors": [
