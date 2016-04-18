@@ -1,5 +1,5 @@
 /*
- * jssip-sl v0.1.0
+ * jssip-sl v0.2.0
  * the Javascript SIP library - SL
  * Copyright: 2012-2016 José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)
  * Homepage: http://jssip.net
@@ -26764,7 +26764,7 @@ module.exports={
   "name": "jssip-sl",
   "title": "jssip-sl",
   "description": "the Javascript SIP library - SL",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "http://jssip.net",
   "author": "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
   "contributors": [
@@ -26783,14 +26783,14 @@ module.exports={
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/versatica/JsSIP.git"
+    "url": "https://github.com/BigFluffyTRex/jssip-sl.git"
   },
   "bugs": {
-    "url": "https://github.com/versatica/JsSIP/issues"
+    "url": "https://github.com/BigFluffyTRex/jssip-sl/issues"
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "rtcninja-js-sl": "^0.1.0",
+    "rtcninja-js-sl": "^0.7.0",
     "sdp-transform": "~1.5.3",
     "websocket": "^1.0.22"
   },
